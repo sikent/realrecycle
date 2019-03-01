@@ -83,7 +83,7 @@ _signup = (email, password) =>{
             </Item>
 
         <Button full rounded success style={{marginTop: 10}}
-        onPress={() =>this._login(this.state.email, this.state.password)}><Text style={{color: "white"}}>Login</Text>
+        onPress={() =>this._login(this.state.email, this.state.password)}><Text style={{color: "white"}}>ogin</Text>
         </Button>
 
 
